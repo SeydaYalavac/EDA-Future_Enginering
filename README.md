@@ -1,4 +1,5 @@
-📊 Keşifçi Veri Analizi ve Özellik Mühendisliği (Wine Quality)
+TR:
+Keşifçi Veri Analizi ve Özellik Mühendisliği (Wine Quality)
 Bu proje, veri bilimi süreçlerinin en kritik adımı olan veri hazırlama ve anlama aşamalarını içermektedir. Şarap kalitesini (WineQT) etkileyen parametrelerin derinlemesine incelenmesi hedeflenmiştir.
 
 Neler Yapıldı?
@@ -11,8 +12,8 @@ Aykırı Değer (Outlier) Analizi: Model başarısını olumsuz etkileyebilecek 
 
 Özellik Mühendisliği (Feature Engineering): Yeni değişken türetme ve veriyi makine öğrenmesi modellerine hazır hale getirme işlemleri.
 
-English Description
-📊 Exploratory Data Analysis & Feature Engineering (Wine Quality)
+ENG:
+Exploratory Data Analysis & Feature Engineering (Wine Quality)
 This project focuses on the most critical stages of the data science pipeline: data understanding and preparation. The primary goal is to perform an in-depth analysis of the parameters affecting wine quality (WineQT).
 
 Key Features:
